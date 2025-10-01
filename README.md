@@ -10,13 +10,22 @@ Plays the game Rock Paper Scissors. The program works by keeping track of sets o
 
 ![Image of Rock Paper Scissors](images/rock-paper-scissors.png)
 
+### Cat and Dog Image Classifier
+
+Uses a convolutional neural network to make predictions on images of cats and dogs. The program is implemented using Python, Tensorflow, and Keras. I did not write the program locally, instead I used Google Colab starting from boilerplate provided by freeCodeCamp. My project can be accessed [here](https://colab.research.google.com/drive/1EDdNHLyxvXSt_o9OObPdII-g4WfKZM8z?usp=sharing), and a local copy is available in this repo.
+
+![Image of Cat and Dog Image Classifier](images/cat-and-dog.png)
+
 ## Skills
 
 - Python
+- Tensorflow
+- Keras
 
 ## Development Tools
 
 - [VS Code](https://code.visualstudio.com/) - Development environment
+- [Google Colab](https://colab.research.google.com/) - Development environment
 - [Git](https://git-scm.com/)/[GitHub](https://github.com/) - Version control
 
 ## Running the Projects
