@@ -16,11 +16,21 @@ Uses a convolutional neural network to make predictions on images of cats and do
 
 ![Image of Cat and Dog Image Classifier](images/cat-and-dog.png)
 
+### Book Recommendation Engine using KNN
+
+Recommends books using a K-Nearest Neighbors algorithm. When a book title is inputted, the program will return books that are similar based on the distance found by the algorithm. I wrote the program using Google Colab, accessible [here](https://colab.research.google.com/drive/1fd1kH5vDAcSE6qjiR0VrI2vQ6KU5rrFL?usp=sharing) or locally in this repo.
+
+![Image of Book Recommendation Engine using KNN](images/book-rec-engine.png)
+
 ## Skills
 
 - Python
 - Tensorflow
 - Keras
+- Numpy
+- Pandas
+- Scipy
+- Sklearn
 
 ## Development Tools
 
