@@ -22,6 +22,12 @@ Recommends books using a K-Nearest Neighbors algorithm. When a book title is inp
 
 ![Image of Book Recommendation Engine using KNN](images/book-rec-engine.png)
 
+### Linear Regression Health Costs Calculator
+
+Predicts healthcare costs using a regression algorithm. A dataset is used that contains information about people (not real people) and their healthcare costs. Categorical data is converted to numerical, then the dataset is split into training and testing data. Finally, normalization is applied and a Sequential model with Dense layers is used. I wrote the program using Google Colab, accessible [here](https://colab.research.google.com/drive/12OKyW6323E7hqWQW_aoVdWT2yTqQYQ-5?usp=sharing) or locally in this repo.
+
+![Image of Linear Regression Health Costs Calculator](images/health-costs-calc.png)
+
 ## Skills
 
 - Python
