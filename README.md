@@ -2,6 +2,8 @@
 
 These are the projects I did in the completion of this certificate.
 
+[Here](https://www.freecodecamp.org/certification/fcc30aca8b2-d2c4-4009-a397-2e6d1ecbde3b/machine-learning-with-python-v7) is my certificate on freeCodeCamp.
+
 ## Projects
 
 ### Rock Paper Scissors
@@ -27,6 +29,12 @@ Recommends books using a K-Nearest Neighbors algorithm. When a book title is inp
 Predicts healthcare costs using a regression algorithm. A dataset is used that contains information about people (not real people) and their healthcare costs. Categorical data is converted to numerical, then the dataset is split into training and testing data. Finally, normalization is applied and a Sequential model with Dense layers is used. I wrote the program using Google Colab, accessible [here](https://colab.research.google.com/drive/12OKyW6323E7hqWQW_aoVdWT2yTqQYQ-5?usp=sharing) or locally in this repo.
 
 ![Image of Linear Regression Health Costs Calculator](images/health-costs-calc.png)
+
+### Neural Network SMS Text Classifier
+
+Predicts whether SMS text messages are spam or not. Training and testing datasets are provided that contain messages marked as "ham" for legitimate or "spam" for spam. The words are encoded as numeric, then a Sequential model with LSTM and Dense layers is used. Finally, I created a "predict_message" function that predicts a message against the model and returns a user readable output. I wrote the program using Google Colab, accessible [here](https://colab.research.google.com/drive/1_HTz7Vgas25A1XsEuVUXX9Pv8_6xighW?usp=sharing) or locally in this repo.
+
+![Image of Neural Network SMS Text Classifier](images/sms-text-classifier.png)
 
 ## Skills
 
